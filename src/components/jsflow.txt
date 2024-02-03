@@ -1,0 +1,12 @@
+### 
+1 create post ke form se image upload krna hai 
+2 jab submit pe click hoga to database m 
+    * unique postID (khud generate kr denge)
+    * file jo upload ki hogi uska id milega wo id
+    * username 
+    * time and date
+
+
+3 cardcontainer m sare posts managa lenge aur fir card m data pass krege
+  -data pass krte time post id bhi as a prop denge
+  - yhi post id ham comment upload krte time use kr denge mapping k liye

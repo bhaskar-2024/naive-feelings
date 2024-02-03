@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+
+.main-page{
+  background-image: url("https://img.freepik.com/free-photo/beautiful-shot-small-house-water-with-trees-background-black-white_181624-5147.jpg?w=826&t=st=1705003146~exp=1705003746~hmac=fd381113426b3ca49519740e30cb2494156e00ce970980c438fb42c43b5b85a3");
+  background-repeat: none;
+  object-fit: fill;
+  
+}
+
+.aboutMe{
+  background-image: url("https://images.pexels.com/photos/7737813/pexels-photo-7737813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-repeat: none;
+  background-size: cover;
+}
+.title{
+  font-family: 'Rubik Burned', system-ui;
+}
+.aboutText
+{
+  font-family: 'Barlow Condensed', sans-serif;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.91);
+}
